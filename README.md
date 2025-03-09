@@ -398,3 +398,51 @@ A: 目前不支持自定义发音人，只能使用HS引擎提供的预设发音
 ### Q: 如何处理特殊符号和数字？
 
 A: HS引擎TTS服务会自动处理文本中的特殊符号和数字，将其转换为自然语言表达。
+
+## 免责声明
+
+本项目是一个开源的语音合成工具，基于HS引擎的公开API。在使用本工具时，请注意以下事项：
+
+1. **使用范围**：
+   - 本工具仅供个人学习、研究和非商业用途使用
+   - 禁止用于任何商业目的
+   - 禁止将本工具用于非法用途或违反道德规范的场景
+
+2. **法律责任**：
+   - 使用者应自行承担使用本工具的所有风险和责任
+   - 开发者不对使用本工具产生的任何直接或间接损失负责
+   - 使用本工具即表示同意遵守相关法律法规和使用条款
+
+3. **知识产权**：
+   - 本项目代码采用 MIT 许可证开源
+   - 用户使用本工具生成的语音内容的版权归属需遵循相关法律规定
+   - 请尊重原始文本的知识产权，确保您有权将文本转换为语音
+
+4. **隐私声明**：
+   - 本工具不会收集或存储用户的个人信息
+   - 所有文本转语音的处理均通过HS引擎的API完成
+   - 建议用户不要处理包含敏感信息的文本
+
+## 许可证
+
+MIT License
+
+Copyright (c) 2024 pot-app
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
